@@ -1,2 +1,3 @@
 # coursera-projects
-this project contains finding the accuracy of the train rest set using different ml algorithms
+
+a collection of all the projects which I have done in coursera
